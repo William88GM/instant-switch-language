@@ -27,7 +27,7 @@ function App() {
         <select onChange={handleChange}>
           <option value={"es"}>Español</option>
           <option value={"en"}>Ingles</option>
-          <option value={"de"}>Nazi</option>
+          <option value={"de"}>Aleman</option>
         </select>
       </article>
     </>
